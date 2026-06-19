@@ -239,10 +239,10 @@ Aircraft Maintenance Tracker/
         ├── aircraft-list.png
         ├── add-aircraft.png
         ├── delete-aircraft.png
-        ├── active maintenance.png
+        ├── active-maintenance.png
         ├── schedule.png
         ├── analytics.png
-        └── dark mode.png
+        └── dark-mode.png
 ```
 
 ---
